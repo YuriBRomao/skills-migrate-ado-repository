@@ -7,3 +7,5 @@ ado_repository_name: "MigrateFromADORepo2"
 
 ado_url: "https://dev.azure.com/yuriromao"  # e.g "https://dev.azure.com/your-org"
 
+github_org: "Projeto-Testee"
+target_github_repo_name: "migrated-repo"
